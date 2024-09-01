@@ -1,0 +1,6 @@
+PHP Environment (xampp & xdebug)Setup Videos - (Prince Noman)
+https://www.youtube.com/playlist?list=PLXzWWw7zPzPif1DveQCaYZs_sfkTeUMLX
+
+
+Extensions for PHP & Laravel - (Prince Noman)
+https://github.com/prince-noman/php-developers-environment-setup
